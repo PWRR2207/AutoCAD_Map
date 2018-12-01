@@ -21,5 +21,5 @@ D:\Autodesk\AutoCAD2018Map3D\Inc
 
 D:\Autodesk\AutoCAD2018Map3D\Inc-X64
   
-Credit and great appreciation go to: https://github.com/JanKallman/EPPlus - I have used EPPlus in place of my Visual LISP routines
-to read from Excel Worksheets in a custom "DXF shotpoints - to - AutoCAD Block" convertor program.  If you need this type of functionality, I recommend you considering using AutoCAD Civil 3D as it provides much more functionality, especially when the clients change their minds…
+Credit and great appreciation goes to: https://github.com/JanKallman/EPPlus - I have used EPPlus in place of my Visual LISP routines
+to read from Excel Worksheets in a custom "DXF shotpoints - to - AutoCAD Block" .NET convertor program.  If you need this type of functionality, I recommend you considering using AutoCAD Civil 3D as it provides much more functionality, especially when the clients change their minds…
